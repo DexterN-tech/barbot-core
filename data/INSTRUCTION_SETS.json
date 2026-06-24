@@ -1,0 +1,6203 @@
+{
+  "schema_version": "1.0.0",
+  "instruction_sets": [
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_alexander",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cognac",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_cacao",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Nutmeg."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_americano",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_campari",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_sweet_vermouth",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Slice."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Slice."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_angel_face",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cognac",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_cacao",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_aviation",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_maraschino",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_bacardi_cocktail",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_between_the_sheets",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cognac",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_black_russian",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_kahlua",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_brandy_alexander",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_brandy",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_cacao",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Nutmeg."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_b52",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_kahlua",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_baileys",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_caipirinha",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cachaca",
+            "amount_shots": 1.67
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_casino",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_maraschino",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        },
+        {
+          "step": 9,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_clover_club",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_raspberry_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_egg_white",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Raspberry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_daiquiri",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_dry_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Olive."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_gin_fizz",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_godfather",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.17
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_amaretto",
+            "amount_shots": 1.17
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_godmother",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.17
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_amaretto",
+            "amount_shots": 1.17
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_golden_dream",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_galliano",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_grasshopper",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_cacao",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_menthe",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_harvey_wallbanger",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_galliano",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Slice."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_horses_neck",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_brandy",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_ginger_ale",
+            "amount_shots": 4.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_john_collins",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_kir",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_cassis",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_kir_royal",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_champagne",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_cassis",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_long_island_iced_tea",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_tequila",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 6,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 7,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 8,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cola",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 9,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 10,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_mai_tai",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dark_rum",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 6,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 7,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 8,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 9,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 10,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        },
+        {
+          "step": 11,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_manhattan",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_sweet_vermouth",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_bitters",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_margarita",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_tequila",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Olive."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_monkey_gland",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_absinthe",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_negroni",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_campari",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_sweet_vermouth",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Peel."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_old_fashioned",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_bitters",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Peel."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_paradise",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_maraschino",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_pastis",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pernod",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_water",
+            "amount_shots": 2.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_pimms_cup",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pimms",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cucumber",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Cucumber."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Strawberry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_planters_punch",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dark_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 6,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_porto_flip",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_port",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_brandy",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_egg",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Nutmeg."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_pousse_cafe",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_kirsch",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_maraschino",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_rose",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_sherry",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_rusty_nail",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_drambuie",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_screwdriver",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_sea_breeze",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grapefruit_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_shirley_temple",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_ginger_ale",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Slice."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_sidecar",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cognac",
+            "amount_shots": 1.67
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_singapore_sling",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cherry_liqueur",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 6,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 7,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 9,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Pineapple."
+          }
+        },
+        {
+          "step": 10,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_stinger",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cognac",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_creme_de_menthe",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_three_mile_limit",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_ginger_beer",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_tuxedo",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_maraschino",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_absinthe",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_alaska",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_chartreuse",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Peel."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_metro",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grapefruit_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_maraschino",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_new_york",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_rye",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_apple_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_apple_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Apple Slice."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_bellini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_prosecco",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_peach_puree",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Peach."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_cosmopolitan",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.33
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_cuba_libre",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cola",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_frozen_daiquiri",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "blend",
+          "payload": {
+            "duration_ms": 15000
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Pour into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_kamikaze",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_mojito",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_pina_colada",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_coconut_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "blend",
+          "payload": {
+            "duration_ms": 15000
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Pour into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Pineapple."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_purple_haze",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_raspberry_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Raspberry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_sex_on_the_beach",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_peach_schnapps",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Slice."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_tequila_sunrise",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_tequila",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Slice."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Maraschino Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_vodka_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dry_vermouth",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Olive."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_white_russian",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_kahlua",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_woo_woo",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_peach_schnapps",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_blue_lagoon",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_blue_curacao",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_hawaiian",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_malibu",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_coconut_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Pineapple."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_irish_coffee",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_coffee",
+            "amount_shots": 4.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_brown_sugar",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Nutmeg."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_japanese_cocktail",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_brandy",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_bitters",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_malibu_sea_breeze",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_malibu",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grapefruit_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_san_francisco",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_orgasm",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_brandy",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_amaretto",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_baileys",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_mimosa",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_champagne",
+            "amount_shots": 2.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 2.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_screwdriver_shot",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_cape_codder",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_gin_and_tonic",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_tonic_water",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_rum_and_coke",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cola",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_vodka_cranberry",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_dark_and_stormy",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dark_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_ginger_beer",
+            "amount_shots": 3.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_espresso_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_kahlua",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_coffee",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Coffee Bean."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_lemon_drop",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_triple_sec",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_pink_lady",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_egg_white",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Cherry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_zombie",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dark_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cachaca",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 6,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 7,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 8,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 9,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        },
+        {
+          "step": 10,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_corba",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_blue_curacao",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_swedish_girl",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_raspberry_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Raspberry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_caribbean_sunset",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_malibu",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Pineapple."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_hawaiian_punch",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dark_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 6,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 7,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        },
+        {
+          "step": 9,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Pineapple."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_virgin_mojito",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_california_lemonade",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_tropical_heat",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_dark_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 6,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_midnight_sun",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_blue_curacao",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cranberry_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_golden_sunset",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_tequila",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_orange_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_grenadine",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Orange Slice."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_citrus_burst",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lime_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 6,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_berry_bliss",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_raspberry_syrup",
+            "amount_shots": 0.67
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_soda_water",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Raspberry."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_ginger_fizz",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_ginger_ale",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_coconut_breeze",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_white_rum",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_coconut_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_pineapple_juice",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Pineapple."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_chocolate_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_chocolate",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Chocolate."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_peach_bellini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_prosecco",
+            "amount_shots": 2.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_peach_puree",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 4,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Peach."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_autumn_spice",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_apple_juice",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cinnamon",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Cinnamon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_mint_julep",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_mint",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Mint."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_ramos_gin_fizz",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_gin",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_lemon_juice",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.33
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cream",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_egg_white",
+            "amount_shots": 0.5
+          }
+        },
+        {
+          "step": 6,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 7,
+          "station": "shaker_module",
+          "action": "shake",
+          "payload": {
+            "duration_ms": 8000,
+            "style": "hard"
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Strain into glass."
+          }
+        },
+        {
+          "step": 9,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_sazerac",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_rye",
+            "amount_shots": 1.5
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_simple_syrup",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_bitters",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_absinthe",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 5,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 6,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_vieux_carre",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_rye",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cognac",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_sweet_vermouth",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_benedictine",
+            "amount_shots": 0.17
+          }
+        },
+        {
+          "step": 5,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_bitters",
+            "amount_shots": 0.07
+          }
+        },
+        {
+          "step": 6,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 7,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Stir gently."
+          }
+        },
+        {
+          "step": 8,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lemon Twist."
+          }
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_plane_crash",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_whiskey",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_bourbon",
+            "amount_shots": 1.0
+          }
+        },
+        {
+          "step": 3,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_cola",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 4,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 5,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Garnish with Lime."
+          }
+        }
+      ]
+    }
+  ]
+}

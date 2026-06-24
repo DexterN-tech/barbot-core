@@ -1,0 +1,858 @@
+{
+  "schema_version": "1.0.0",
+  "inventory": [
+    {
+      "id": "inv_gin",
+      "name": "Gin",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "London Dry Gin"
+      ]
+    },
+    {
+      "id": "inv_vodka",
+      "name": "Vodka",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_white_rum",
+      "name": "White Rum",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_dark_rum",
+      "name": "Dark Rum",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_black_rum",
+      "name": "Black Rum",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cachaca",
+      "name": "Cachaca",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_tequila",
+      "name": "Tequila",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_brandy",
+      "name": "Brandy",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cognac",
+      "name": "Cognac",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_whiskey",
+      "name": "Whiskey",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Bourbon"
+      ]
+    },
+    {
+      "id": "inv_rye",
+      "name": "Rye Whiskey",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_scotch",
+      "name": "Scotch",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_sweet_vermouth",
+      "name": "Sweet Vermouth",
+      "category": "Fortified Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_dry_vermouth",
+      "name": "Dry Vermouth",
+      "category": "Fortified Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_campari",
+      "name": "Campari",
+      "category": "Bitter Aperitif",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_fernet",
+      "name": "Fernet Branca",
+      "category": "Bitter",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_triple_sec",
+      "name": "Triple Sec",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Cointreau"
+      ]
+    },
+    {
+      "id": "inv_creme_de_cacao",
+      "name": "Creme De Cacao",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_creme_de_menthe",
+      "name": "Creme De Menthe",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_amaretto",
+      "name": "Amaretto",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_kahlua",
+      "name": "Kahlua",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_baileys",
+      "name": "Baileys",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Irish Cream"
+      ]
+    },
+    {
+      "id": "inv_drambuie",
+      "name": "Drambuie",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_green_chartreuse",
+      "name": "Green Chartreuse",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_yellow_chartreuse",
+      "name": "Yellow Chartreuse",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_benedictine",
+      "name": "Benedictine",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_midori",
+      "name": "Midori",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_galliano",
+      "name": "Galliano",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_absinthe",
+      "name": "Absinthe",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_pernod",
+      "name": "Pernod",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Pastis"
+      ]
+    },
+    {
+      "id": "inv_jagermeister",
+      "name": "Jagermeister",
+      "category": "Bitter",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_southern_comfort",
+      "name": "Southern Comfort",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cherry_liqueur",
+      "name": "Cherry Liqueur",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Kirsch"
+      ]
+    },
+    {
+      "id": "inv_blue_curacao",
+      "name": "Blue Curacao",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_sherry",
+      "name": "Sherry",
+      "category": "Fortified Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_port",
+      "name": "Port",
+      "category": "Fortified Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_malibu",
+      "name": "Malibu",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Coconut Rum"
+      ]
+    },
+    {
+      "id": "inv_maraschino",
+      "name": "Maraschino Liqueur",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_orange_juice",
+      "name": "Orange Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cranberry_juice",
+      "name": "Cranberry Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_pineapple_juice",
+      "name": "Pineapple Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_lemon_juice",
+      "name": "Lemon Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_lime_juice",
+      "name": "Lime Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_grapefruit_juice",
+      "name": "Grapefruit Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_apple_juice",
+      "name": "Apple Juice",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_ginger_ale",
+      "name": "Ginger Ale",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_ginger_beer",
+      "name": "Ginger Beer",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cola",
+      "name": "Cola",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_tonic_water",
+      "name": "Tonic Water",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_soda_water",
+      "name": "Soda Water",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_grenadine",
+      "name": "Grenadine",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_simple_syrup",
+      "name": "Simple Syrup",
+      "category": "Syrup",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_honey_syrup",
+      "name": "Honey Syrup",
+      "category": "Syrup",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cream",
+      "name": "Cream",
+      "category": "Dairy",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_milk",
+      "name": "Milk",
+      "category": "Dairy",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_half_and_half",
+      "name": "Half And Half",
+      "category": "Dairy",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_egg_white",
+      "name": "Egg White",
+      "category": "Egg",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_egg",
+      "name": "Egg",
+      "category": "Egg",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_mint",
+      "name": "Mint",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_orange",
+      "name": "Orange",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_lemon",
+      "name": "Lemon",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_lime",
+      "name": "Lime",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_olive",
+      "name": "Olive",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_maraschino_cherry",
+      "name": "Maraschino Cherry",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_nutmeg",
+      "name": "Nutmeg",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_cinnamon",
+      "name": "Cinnamon",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_chocolate",
+      "name": "Chocolate",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_coffee",
+      "name": "Coffee",
+      "category": "Beverage",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_brown_sugar",
+      "name": "Brown Sugar",
+      "category": "Syrup",
+      "alcoholic": false,
+      "unit": "g",
+      "quantity": 2000,
+      "aliases": []
+    },
+    {
+      "id": "inv_fruit_punch",
+      "name": "Fruit Punch",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_coconut_cream",
+      "name": "Coconut Cream",
+      "category": "Dairy",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_passionfruit_syrup",
+      "name": "Passionfruit Syrup",
+      "category": "Syrup",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_raspberry_syrup",
+      "name": "Raspberry Syrup",
+      "category": "Syrup",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_creme_de_cassis",
+      "name": "Creme De Cassis",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_champagne",
+      "name": "Champagne",
+      "category": "Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_pimms",
+      "name": "Pimms",
+      "category": "Fortified Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_cucumber",
+      "name": "Cucumber",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_strawberry",
+      "name": "Strawberry",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_kirsch",
+      "name": "Kirschwasser",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": [
+        "Kirsch"
+      ]
+    },
+    {
+      "id": "inv_bitters",
+      "name": "Angostura Bitters",
+      "category": "Bitters",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_prosecco",
+      "name": "Prosecco",
+      "category": "Wine",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_peach_puree",
+      "name": "Peach Puree",
+      "category": "Juice",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_pineapple",
+      "name": "Pineapple",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_ice",
+      "name": "Ice",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 10000,
+      "aliases": []
+    },
+    {
+      "id": "inv_water",
+      "name": "Water",
+      "category": "Mixer",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_peach_schnapps",
+      "name": "Peach Schnapps",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_chartreuse",
+      "name": "Chartreuse",
+      "category": "Liqueur",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_orange_bitters",
+      "name": "Orange Bitters",
+      "category": "Bitters",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "id": "inv_orange_slice",
+      "name": "Orange Slice",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_lemon_twist",
+      "name": "Lemon Twist",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_apple_slice",
+      "name": "Apple Slice",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_peach",
+      "name": "Peach",
+      "category": "Garnish",
+      "alcoholic": false,
+      "unit": "units",
+      "quantity": 50,
+      "aliases": []
+    },
+    {
+      "id": "inv_bourbon",
+      "name": "Bourbon",
+      "category": "Spirit",
+      "alcoholic": true,
+      "unit": "mL",
+      "quantity": 3000,
+      "aliases": []
+    }
+  ]
+}
