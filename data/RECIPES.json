@@ -9716,6 +9716,24 @@
       "tags": [
         "TheCocktailDB"
       ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_dirty_martini",
+      "name": "Dirty Martini",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
     }
   ]
 }

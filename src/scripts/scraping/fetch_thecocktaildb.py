@@ -48,6 +48,9 @@ def convert_to_shots(measure: str | None) -> float:
         cl -> divide by 3
         bottle -> 25 shots
 
+    Compound measures separated by '/' (e.g. '70ml/2fl oz') are parsed
+    by trying each segment independently, preferring oz-based units.
+
     Raises:
         ValueError: if the unit is unknown or measure cannot be parsed.
     """
@@ -66,28 +69,48 @@ def convert_to_shots(measure: str | None) -> float:
         "bottle": 25.0,
     }
 
-    matched_mult = None
-    numeric_part = cleaned
+    def _try_parse(seg: str) -> float | None:
+        matched_mult = None
+        numeric_part = seg
+        for unit, mult in unit_map.items():
+            if seg.endswith(unit):
+                matched_mult = mult
+                numeric_part = seg[: -len(unit)]
+                break
+        if matched_mult is None:
+            return None
+        numeric_part = numeric_part.strip()
+        numeric_part = re.sub(r"fl\s*", "", numeric_part, flags=re.IGNORECASE).strip()
+        m = re.match(r"(\d+/\d+|\d+(?:\.\d+)?(?:\s+\d+/\d+)?)$", numeric_part.strip())
+        if not m:
+            return None
+        try:
+            value = _fraction_to_float(m.group(1))
+        except ValueError:
+            return None
+        shots = round(value * matched_mult, 4)
+        if shots <= 0:
+            return None
+        return shots
 
-    for unit, mult in unit_map.items():
-        if cleaned.endswith(unit):
-            matched_mult = mult
-            numeric_part = cleaned[: -len(unit)]
-            break
+    result = _try_parse(cleaned)
+    if result is not None:
+        return result
 
-    if matched_mult is None:
-        raise ValueError(f"Unknown measure unit in: {measure!r}")
+    if "/" in cleaned:
+        segments = [s.strip() for s in cleaned.split("/") if s.strip()]
+        candidates: list[tuple[float, int]] = []
+        priority = {"oz": 0, "shot": 1, "shots": 1, "ml": 2, "cl": 2, "bottle": 3}
+        for seg in segments:
+            shots = _try_parse(seg)
+            if shots is not None:
+                unit_key = next((u for u in unit_map if seg.endswith(u)), "ml")
+                candidates.append((shots, priority.get(unit_key, 99)))
+        if candidates:
+            candidates.sort(key=lambda x: x[1])
+            return candidates[0][0]
 
-    numeric_part = numeric_part.strip()
-    if not numeric_part:
-        raise ValueError(f"Missing numeric value in: {measure!r}")
-
-    try:
-        value = _fraction_to_float(numeric_part)
-    except ValueError:
-        raise ValueError(f"Cannot parse numeric value in: {measure!r}")
-
-    return round(value * matched_mult, 4)
+    raise ValueError(f"Unknown measure unit in: {measure!r}")
 
 
 # =====================================================================

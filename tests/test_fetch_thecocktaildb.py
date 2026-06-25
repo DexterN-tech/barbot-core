@@ -57,6 +57,9 @@ class TestConvertToShots:
         assert math.isclose(convert_to_shots("0.5 oz"), 0.5)
         assert math.isclose(convert_to_shots("1.33 oz"), 1.33)
 
+    def test_compound_ml_oz(self) -> None:
+        assert math.isclose(convert_to_shots("70ml/2fl oz"), 2.0)
+
 
 class TestExtractIngredients:
     def test_extracts_ingredients_and_measures(self) -> None:

@@ -18500,6 +18500,38 @@
           }
         }
       ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "recipe_id": "recipe_dirty_martini",
+      "steps": [
+        {
+          "step": 1,
+          "station": "fluid_dispenser",
+          "action": "dispense",
+          "payload": {
+            "inventory_id": "inv_vodka",
+            "amount_shots": 2.0
+          }
+        },
+        {
+          "step": 2,
+          "station": "ice_dispenser",
+          "action": "add_ice",
+          "payload": {
+            "quantity_units": 1,
+            "unit": "cubes"
+          }
+        },
+        {
+          "step": 3,
+          "station": "user_prompt",
+          "action": "instruction",
+          "payload": {
+            "message": "Build in glass."
+          }
+        }
+      ]
     }
   ]
 }
