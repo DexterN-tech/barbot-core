@@ -2,6 +2,7 @@
   "schema_version": "1.0.0",
   "inventory": [
     {
+      "schema_version": "1.0.0",
       "id": "inv_gin",
       "name": "Gin",
       "category": "Spirit",
@@ -13,6 +14,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_vodka",
       "name": "Vodka",
       "category": "Spirit",
@@ -22,6 +24,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_white_rum",
       "name": "White Rum",
       "category": "Spirit",
@@ -31,6 +34,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_dark_rum",
       "name": "Dark Rum",
       "category": "Spirit",
@@ -40,6 +44,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_black_rum",
       "name": "Black Rum",
       "category": "Spirit",
@@ -49,6 +54,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cachaca",
       "name": "Cachaca",
       "category": "Spirit",
@@ -58,6 +64,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_tequila",
       "name": "Tequila",
       "category": "Spirit",
@@ -67,6 +74,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_brandy",
       "name": "Brandy",
       "category": "Spirit",
@@ -76,6 +84,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cognac",
       "name": "Cognac",
       "category": "Spirit",
@@ -85,6 +94,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_whiskey",
       "name": "Whiskey",
       "category": "Spirit",
@@ -96,6 +106,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_rye",
       "name": "Rye Whiskey",
       "category": "Spirit",
@@ -105,6 +116,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_scotch",
       "name": "Scotch",
       "category": "Spirit",
@@ -114,6 +126,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_sweet_vermouth",
       "name": "Sweet Vermouth",
       "category": "Fortified Wine",
@@ -123,6 +136,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_dry_vermouth",
       "name": "Dry Vermouth",
       "category": "Fortified Wine",
@@ -132,6 +146,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_campari",
       "name": "Campari",
       "category": "Bitter Aperitif",
@@ -141,6 +156,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_fernet",
       "name": "Fernet Branca",
       "category": "Bitter",
@@ -150,6 +166,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_triple_sec",
       "name": "Triple Sec",
       "category": "Liqueur",
@@ -161,6 +178,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_creme_de_cacao",
       "name": "Creme De Cacao",
       "category": "Liqueur",
@@ -170,6 +188,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_creme_de_menthe",
       "name": "Creme De Menthe",
       "category": "Liqueur",
@@ -179,6 +198,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_amaretto",
       "name": "Amaretto",
       "category": "Liqueur",
@@ -188,6 +208,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_kahlua",
       "name": "Kahlua",
       "category": "Liqueur",
@@ -197,6 +218,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_baileys",
       "name": "Baileys",
       "category": "Liqueur",
@@ -208,6 +230,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_drambuie",
       "name": "Drambuie",
       "category": "Liqueur",
@@ -217,6 +240,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_green_chartreuse",
       "name": "Green Chartreuse",
       "category": "Liqueur",
@@ -226,6 +250,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_yellow_chartreuse",
       "name": "Yellow Chartreuse",
       "category": "Liqueur",
@@ -235,6 +260,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_benedictine",
       "name": "Benedictine",
       "category": "Liqueur",
@@ -244,6 +270,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_midori",
       "name": "Midori",
       "category": "Liqueur",
@@ -253,6 +280,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_galliano",
       "name": "Galliano",
       "category": "Liqueur",
@@ -262,6 +290,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_absinthe",
       "name": "Absinthe",
       "category": "Spirit",
@@ -271,6 +300,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_pernod",
       "name": "Pernod",
       "category": "Spirit",
@@ -282,6 +312,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_jagermeister",
       "name": "Jagermeister",
       "category": "Bitter",
@@ -291,6 +322,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_southern_comfort",
       "name": "Southern Comfort",
       "category": "Spirit",
@@ -300,6 +332,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cherry_liqueur",
       "name": "Cherry Liqueur",
       "category": "Liqueur",
@@ -311,6 +344,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_blue_curacao",
       "name": "Blue Curacao",
       "category": "Liqueur",
@@ -320,6 +354,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_sherry",
       "name": "Sherry",
       "category": "Fortified Wine",
@@ -329,6 +364,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_port",
       "name": "Port",
       "category": "Fortified Wine",
@@ -338,6 +374,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_malibu",
       "name": "Malibu",
       "category": "Spirit",
@@ -349,6 +386,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_maraschino",
       "name": "Maraschino Liqueur",
       "category": "Liqueur",
@@ -358,6 +396,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_orange_juice",
       "name": "Orange Juice",
       "category": "Juice",
@@ -367,6 +406,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cranberry_juice",
       "name": "Cranberry Juice",
       "category": "Juice",
@@ -376,6 +416,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_pineapple_juice",
       "name": "Pineapple Juice",
       "category": "Juice",
@@ -385,6 +426,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_lemon_juice",
       "name": "Lemon Juice",
       "category": "Juice",
@@ -394,6 +436,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_lime_juice",
       "name": "Lime Juice",
       "category": "Juice",
@@ -403,6 +446,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_grapefruit_juice",
       "name": "Grapefruit Juice",
       "category": "Juice",
@@ -412,6 +456,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_apple_juice",
       "name": "Apple Juice",
       "category": "Juice",
@@ -421,6 +466,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_ginger_ale",
       "name": "Ginger Ale",
       "category": "Mixer",
@@ -430,6 +476,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_ginger_beer",
       "name": "Ginger Beer",
       "category": "Mixer",
@@ -439,6 +486,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cola",
       "name": "Cola",
       "category": "Mixer",
@@ -448,6 +496,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_tonic_water",
       "name": "Tonic Water",
       "category": "Mixer",
@@ -457,6 +506,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_soda_water",
       "name": "Soda Water",
       "category": "Mixer",
@@ -466,6 +516,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_grenadine",
       "name": "Grenadine",
       "category": "Mixer",
@@ -475,6 +526,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_simple_syrup",
       "name": "Simple Syrup",
       "category": "Syrup",
@@ -484,6 +536,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_honey_syrup",
       "name": "Honey Syrup",
       "category": "Syrup",
@@ -493,6 +546,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cream",
       "name": "Cream",
       "category": "Dairy",
@@ -502,6 +556,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_milk",
       "name": "Milk",
       "category": "Dairy",
@@ -511,6 +566,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_half_and_half",
       "name": "Half And Half",
       "category": "Dairy",
@@ -520,6 +576,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_egg_white",
       "name": "Egg White",
       "category": "Egg",
@@ -529,6 +586,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_egg",
       "name": "Egg",
       "category": "Egg",
@@ -538,6 +596,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_mint",
       "name": "Mint",
       "category": "Garnish",
@@ -547,6 +606,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_orange",
       "name": "Orange",
       "category": "Garnish",
@@ -556,6 +616,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_lemon",
       "name": "Lemon",
       "category": "Garnish",
@@ -565,6 +626,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_lime",
       "name": "Lime",
       "category": "Garnish",
@@ -574,6 +636,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_olive",
       "name": "Olive",
       "category": "Garnish",
@@ -583,6 +646,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_maraschino_cherry",
       "name": "Maraschino Cherry",
       "category": "Garnish",
@@ -592,6 +656,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_nutmeg",
       "name": "Nutmeg",
       "category": "Garnish",
@@ -601,6 +666,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cinnamon",
       "name": "Cinnamon",
       "category": "Garnish",
@@ -610,6 +676,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_chocolate",
       "name": "Chocolate",
       "category": "Garnish",
@@ -619,6 +686,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_coffee",
       "name": "Coffee",
       "category": "Beverage",
@@ -628,6 +696,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_brown_sugar",
       "name": "Brown Sugar",
       "category": "Syrup",
@@ -637,6 +706,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_fruit_punch",
       "name": "Fruit Punch",
       "category": "Mixer",
@@ -646,6 +716,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_coconut_cream",
       "name": "Coconut Cream",
       "category": "Dairy",
@@ -655,6 +726,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_passionfruit_syrup",
       "name": "Passionfruit Syrup",
       "category": "Syrup",
@@ -664,6 +736,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_raspberry_syrup",
       "name": "Raspberry Syrup",
       "category": "Syrup",
@@ -673,6 +746,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_creme_de_cassis",
       "name": "Creme De Cassis",
       "category": "Liqueur",
@@ -682,6 +756,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_champagne",
       "name": "Champagne",
       "category": "Wine",
@@ -691,6 +766,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_pimms",
       "name": "Pimms",
       "category": "Fortified Wine",
@@ -700,6 +776,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_cucumber",
       "name": "Cucumber",
       "category": "Garnish",
@@ -709,6 +786,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_strawberry",
       "name": "Strawberry",
       "category": "Garnish",
@@ -718,6 +796,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_kirsch",
       "name": "Kirschwasser",
       "category": "Spirit",
@@ -729,6 +808,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_bitters",
       "name": "Angostura Bitters",
       "category": "Bitters",
@@ -738,6 +818,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_prosecco",
       "name": "Prosecco",
       "category": "Wine",
@@ -747,6 +828,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_peach_puree",
       "name": "Peach Puree",
       "category": "Juice",
@@ -756,6 +838,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_pineapple",
       "name": "Pineapple",
       "category": "Garnish",
@@ -765,6 +848,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_ice",
       "name": "Ice",
       "category": "Other",
@@ -774,6 +858,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_water",
       "name": "Water",
       "category": "Mixer",
@@ -783,6 +868,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_peach_schnapps",
       "name": "Peach Schnapps",
       "category": "Liqueur",
@@ -792,6 +878,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_chartreuse",
       "name": "Chartreuse",
       "category": "Liqueur",
@@ -801,6 +888,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_orange_bitters",
       "name": "Orange Bitters",
       "category": "Bitters",
@@ -810,6 +898,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_orange_slice",
       "name": "Orange Slice",
       "category": "Garnish",
@@ -819,6 +908,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_lemon_twist",
       "name": "Lemon Twist",
       "category": "Garnish",
@@ -828,6 +918,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_apple_slice",
       "name": "Apple Slice",
       "category": "Garnish",
@@ -837,6 +928,7 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_peach",
       "name": "Peach",
       "category": "Garnish",
@@ -846,12 +938,1233 @@
       "aliases": []
     },
     {
+      "schema_version": "1.0.0",
       "id": "inv_bourbon",
       "name": "Bourbon",
       "category": "Spirit",
       "alcoholic": true,
       "unit": "mL",
       "quantity": 3000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_grand_marnier",
+      "name": "Grand Marnier",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_heavy_cream",
+      "name": "Heavy Cream",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_wild_turkey",
+      "name": "Wild Turkey",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_absolut_vodka",
+      "name": "Absolut Vodka",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_applejack",
+      "name": "Applejack",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_strawberry_schnapps",
+      "name": "Strawberry Schnapps",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_peach_nectar",
+      "name": "Peach Nectar",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_vermouth",
+      "name": "Vermouth",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_light_rum",
+      "name": "Light Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_crown_royal",
+      "name": "Crown Royal",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_blended_whiskey",
+      "name": "Blended Whiskey",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_sambuca",
+      "name": "Sambuca",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_goldschlager",
+      "name": "Goldschlager",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_sugar_syrup",
+      "name": "Sugar Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_creme_de_mure",
+      "name": "Creme De Mure",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_passion_fruit_juice",
+      "name": "Passion Fruit Juice",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_rum",
+      "name": "Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_hot_chocolate",
+      "name": "Hot Chocolate",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_cherry_heering",
+      "name": "Cherry Heering",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_151_proof_rum",
+      "name": "151 Proof Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_bacardi_limon",
+      "name": "Bacardi Limon",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_sloe_gin",
+      "name": "Sloe Gin",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_midori_melon_liqueur",
+      "name": "Midori Melon Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_j\u00e4germeister",
+      "name": "J\u00e4germeister",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_sour_mix",
+      "name": "Sour Mix",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_baileys_irish_cream",
+      "name": "Baileys Irish Cream",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_spiced_rum",
+      "name": "Spiced Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_falernum",
+      "name": "Falernum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_a\u00f1ejo_rum",
+      "name": "A\u00f1ejo Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_blackstrap_rum",
+      "name": "Blackstrap Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_lager",
+      "name": "Lager",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_lillet_blanc",
+      "name": "Lillet Blanc",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_chocolate_liqueur",
+      "name": "Chocolate Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_pisco",
+      "name": "Pisco",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_pineapple_syrup",
+      "name": "Pineapple Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_st._germain",
+      "name": "St. Germain",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_hot_damn",
+      "name": "Hot Damn",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_dubonnet_rouge",
+      "name": "Dubonnet Rouge",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_vanilla_syrup",
+      "name": "Vanilla Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_espresso",
+      "name": "Espresso",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_apricot_brandy",
+      "name": "Apricot Brandy",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_elderflower_cordial",
+      "name": "Elderflower Cordial",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_mezcal",
+      "name": "Mezcal",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_coffee_liqueur",
+      "name": "Coffee Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_rose",
+      "name": "Rose",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_strawberries",
+      "name": "Strawberries",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_light_cream",
+      "name": "Light Cream",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_apricot_nectar",
+      "name": "Apricot Nectar",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_pomegranate_juice",
+      "name": "Pomegranate Juice",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_raspberry_liqueur",
+      "name": "Raspberry Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_lillet",
+      "name": "Lillet",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_firewater",
+      "name": "Firewater",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_absolut_peppar",
+      "name": "Absolut Peppar",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_dr._pepper",
+      "name": "Dr. Pepper",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_beer",
+      "name": "Beer",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_carbonated_water",
+      "name": "Carbonated Water",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_malibu_rum",
+      "name": "Malibu Rum",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_sweet_and_sour",
+      "name": "Sweet And Sour",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_club_soda",
+      "name": "Club Soda",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_whisky",
+      "name": "Whisky",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_honey",
+      "name": "Honey",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_lemonade",
+      "name": "Lemonade",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_cherry_juice",
+      "name": "Cherry Juice",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_vanilla_extract",
+      "name": "Vanilla Extract",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_irish_whiskey",
+      "name": "Irish Whiskey",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_iced_tea",
+      "name": "Iced Tea",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_peach_brandy",
+      "name": "Peach Brandy",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_aperol",
+      "name": "Aperol",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_chambord_raspberry_liqueur",
+      "name": "Chambord Raspberry Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_jack_daniels",
+      "name": "Jack Daniels",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_blackberry_brandy",
+      "name": "Blackberry Brandy",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_anis",
+      "name": "Anis",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_apple_brandy",
+      "name": "Apple Brandy",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_tennessee_whiskey",
+      "name": "Tennessee Whiskey",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_absolut_kurant",
+      "name": "Absolut Kurant",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_cranberry_vodka",
+      "name": "Cranberry Vodka",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_apfelkorn",
+      "name": "Apfelkorn",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_schweppes_russchian",
+      "name": "Schweppes Russchian",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_absolut_citron",
+      "name": "Absolut Citron",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_corona",
+      "name": "Corona",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_tia_maria",
+      "name": "Tia Maria",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_coconut_liqueur",
+      "name": "Coconut Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_tomato_juice",
+      "name": "Tomato Juice",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_ricard",
+      "name": "Ricard",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_orgeat_syrup",
+      "name": "Orgeat Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_pepsi_cola",
+      "name": "Pepsi Cola",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_red_wine",
+      "name": "Red Wine",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_white_creme_de_menthe",
+      "name": "White Creme De Menthe",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_cherry_brandy",
+      "name": "Cherry Brandy",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_rosemary_syrup",
+      "name": "Rosemary Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_grape_soda",
+      "name": "Grape Soda",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_orange_curacao",
+      "name": "Orange Curacao",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_blended_scotch",
+      "name": "Blended Scotch",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_islay_single_malt_scotch",
+      "name": "Islay Single Malt Scotch",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_everclear",
+      "name": "Everclear",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_passoa",
+      "name": "Passoa",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_passion_fruit_syrup",
+      "name": "Passion Fruit Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_fresh_lime_juice",
+      "name": "Fresh Lime Juice",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_green_creme_de_menthe",
+      "name": "Green Creme De Menthe",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_coffee_brandy",
+      "name": "Coffee Brandy",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_lime_vodka",
+      "name": "Lime Vodka",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_black_sambuca",
+      "name": "Black Sambuca",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_7_up",
+      "name": "7-up",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_lemon_lime_soda",
+      "name": "Lemon-lime Soda",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_raspberry_vodka",
+      "name": "Raspberry Vodka",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_amaro_montenegro",
+      "name": "Amaro Montenegro",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_ruby_port",
+      "name": "Ruby Port",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_sugar",
+      "name": "Sugar",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_advocaat",
+      "name": "Advocaat",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_godiva_liqueur",
+      "name": "Godiva Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_anisette",
+      "name": "Anisette",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_creme_de_banane",
+      "name": "Creme De Banane",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_rosso_vermouth",
+      "name": "Rosso Vermouth",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_melon_liqueur",
+      "name": "Melon Liqueur",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_maple_syrup",
+      "name": "Maple Syrup",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_limeade",
+      "name": "Limeade",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_white_wine",
+      "name": "White Wine",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_peachtree_schnapps",
+      "name": "Peachtree Schnapps",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_surge",
+      "name": "Surge",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_ouzo",
+      "name": "Ouzo",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_root_beer",
+      "name": "Root Beer",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
+      "aliases": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inv_zima",
+      "name": "Zima",
+      "category": "Other",
+      "alcoholic": false,
+      "unit": "mL",
+      "quantity": 1000,
       "aliases": []
     }
   ]

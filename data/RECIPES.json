@@ -2,6 +2,7 @@
   "schema_version": "1.0.0",
   "recipes": [
     {
+      "schema_version": "1.0.0",
       "id": "recipe_alexander",
       "name": "Alexander",
       "source": "IBA",
@@ -30,6 +31,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_americano",
       "name": "Americano",
       "source": "IBA",
@@ -59,6 +61,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_angel_face",
       "name": "Angel Face",
       "source": "IBA",
@@ -84,6 +87,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_aviation",
       "name": "Aviation",
       "source": "IBA",
@@ -112,6 +116,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_bacardi_cocktail",
       "name": "Bacardi Cocktail",
       "source": "IBA",
@@ -144,6 +149,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_between_the_sheets",
       "name": "Between The Sheets",
       "source": "IBA",
@@ -173,6 +179,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_black_russian",
       "name": "Black Russian",
       "source": "IBA",
@@ -195,6 +202,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_brandy_alexander",
       "name": "Brandy Alexander",
       "source": "IBA",
@@ -223,6 +231,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_b52",
       "name": "B-52",
       "source": "IBA",
@@ -250,6 +259,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_caipirinha",
       "name": "Caipirinha",
       "source": "IBA",
@@ -279,6 +289,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_casino",
       "name": "Casino",
       "source": "IBA",
@@ -311,6 +322,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_clover_club",
       "name": "Clover Club",
       "source": "IBA",
@@ -343,6 +355,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_daiquiri",
       "name": "Daiquiri",
       "source": "IBA",
@@ -372,6 +385,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_dry_martini",
       "name": "Dry Martini",
       "source": "IBA",
@@ -396,6 +410,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_gin_fizz",
       "name": "Gin Fizz",
       "source": "IBA",
@@ -428,6 +443,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_godfather",
       "name": "Godfather",
       "source": "IBA",
@@ -449,6 +465,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_godmother",
       "name": "Godmother",
       "source": "IBA",
@@ -470,6 +487,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_golden_dream",
       "name": "Golden Dream",
       "source": "IBA",
@@ -500,6 +518,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_grasshopper",
       "name": "Grasshopper",
       "source": "IBA",
@@ -526,6 +545,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_harvey_wallbanger",
       "name": "Harvey Wallbanger",
       "source": "IBA",
@@ -555,6 +575,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_horses_neck",
       "name": "Horse's Neck",
       "source": "IBA",
@@ -579,6 +600,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_john_collins",
       "name": "John Collins",
       "source": "IBA",
@@ -612,6 +634,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_kir",
       "name": "Kir",
       "source": "IBA",
@@ -634,6 +657,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_kir_royal",
       "name": "Kir Royal",
       "source": "IBA",
@@ -656,6 +680,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_long_island_iced_tea",
       "name": "Long Island Iced Tea",
       "source": "IBA",
@@ -705,6 +730,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_mai_tai",
       "name": "Mai Tai",
       "source": "IBA",
@@ -747,6 +773,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_manhattan",
       "name": "Manhattan",
       "source": "IBA",
@@ -775,6 +802,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_margarita",
       "name": "Margarita",
       "source": "IBA",
@@ -808,6 +836,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_martini",
       "name": "Martini",
       "source": "IBA",
@@ -832,6 +861,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_monkey_gland",
       "name": "Monkey Gland",
       "source": "IBA",
@@ -861,6 +891,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_negroni",
       "name": "Negroni",
       "source": "IBA",
@@ -889,6 +920,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_old_fashioned",
       "name": "Old Fashioned",
       "source": "IBA",
@@ -918,6 +950,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_paradise",
       "name": "Paradise",
       "source": "IBA",
@@ -947,6 +980,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_pastis",
       "name": "Pastis",
       "source": "IBA",
@@ -971,6 +1005,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_pimms_cup",
       "name": "Pimms Cup",
       "source": "IBA",
@@ -1005,6 +1040,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_planters_punch",
       "name": "Planter's Punch",
       "source": "IBA",
@@ -1042,6 +1078,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_porto_flip",
       "name": "Porto Flip",
       "source": "IBA",
@@ -1069,6 +1106,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_pousse_cafe",
       "name": "Pousse Cafe",
       "source": "IBA",
@@ -1096,6 +1134,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_rose",
       "name": "Rose",
       "source": "IBA",
@@ -1123,6 +1162,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_rusty_nail",
       "name": "Rusty Nail",
       "source": "IBA",
@@ -1146,6 +1186,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_screwdriver",
       "name": "Screwdriver",
       "source": "IBA",
@@ -1170,6 +1211,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_sea_breeze",
       "name": "Sea Breeze",
       "source": "IBA",
@@ -1198,6 +1240,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_shirley_temple",
       "name": "Shirley Temple",
       "source": "IBA",
@@ -1223,6 +1266,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_sidecar",
       "name": "Sidecar",
       "source": "IBA",
@@ -1251,6 +1295,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_singapore_sling",
       "name": "Singapore Sling",
       "source": "IBA",
@@ -1288,6 +1333,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_stinger",
       "name": "Stinger",
       "source": "IBA",
@@ -1309,6 +1355,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_three_mile_limit",
       "name": "Three Mile Limit",
       "source": "IBA",
@@ -1333,6 +1380,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_tuxedo",
       "name": "Tuxedo",
       "source": "IBA",
@@ -1365,6 +1413,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_alaska",
       "name": "Alaska",
       "source": "IBA",
@@ -1392,6 +1441,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_metro",
       "name": "Metro",
       "source": "IBA",
@@ -1417,6 +1467,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_new_york",
       "name": "New York",
       "source": "IBA",
@@ -1445,6 +1496,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_apple_martini",
       "name": "Apple Martini",
       "source": "IBA",
@@ -1474,6 +1526,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_bellini",
       "name": "Bellini",
       "source": "IBA",
@@ -1498,6 +1551,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_cosmopolitan",
       "name": "Cosmopolitan",
       "source": "IBA",
@@ -1531,6 +1585,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_cuba_libre",
       "name": "Cuba Libre",
       "source": "IBA",
@@ -1560,6 +1615,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_frozen_daiquiri",
       "name": "Frozen Daiquiri",
       "source": "IBA",
@@ -1589,6 +1645,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_kamikaze",
       "name": "Kamikaze",
       "source": "IBA",
@@ -1618,6 +1675,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_mojito",
       "name": "Mojito",
       "source": "IBA",
@@ -1652,6 +1710,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_pina_colada",
       "name": "Pina Colada",
       "source": "IBA",
@@ -1683,6 +1742,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_purple_haze",
       "name": "Purple Haze",
       "source": "IBA",
@@ -1715,6 +1775,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_sex_on_the_beach",
       "name": "Sex On The Beach",
       "source": "IBA",
@@ -1748,6 +1809,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_tequila_sunrise",
       "name": "Tequila Sunrise",
       "source": "IBA",
@@ -1778,6 +1840,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_vodka_martini",
       "name": "Vodka Martini",
       "source": "IBA",
@@ -1803,6 +1866,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_white_russian",
       "name": "White Russian",
       "source": "IBA",
@@ -1830,6 +1894,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_woo_woo",
       "name": "Woo Woo",
       "source": "IBA",
@@ -1863,6 +1928,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_blue_lagoon",
       "name": "Blue Lagoon",
       "source": "IBA",
@@ -1896,6 +1962,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_hawaiian",
       "name": "Hawaiian Cocktail",
       "source": "IBA",
@@ -1929,6 +1996,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_irish_coffee",
       "name": "Irish Coffee",
       "source": "IBA",
@@ -1962,6 +2030,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_japanese_cocktail",
       "name": "Japanese Cocktail",
       "source": "IBA",
@@ -1990,6 +2059,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_malibu_sea_breeze",
       "name": "Malibu Sea Breeze",
       "source": "IBA",
@@ -2019,6 +2089,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_san_francisco",
       "name": "San Francisco",
       "source": "IBA",
@@ -2048,6 +2119,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_orgasm",
       "name": "Orgasm",
       "source": "IBA",
@@ -2079,6 +2151,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_mimosa",
       "name": "Mimosa",
       "source": "IBA",
@@ -2101,6 +2174,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_screwdriver_shot",
       "name": "Screwdriver Shot",
       "source": "IBA",
@@ -2123,6 +2197,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_cape_codder",
       "name": "Cape Codder",
       "source": "IBA",
@@ -2147,6 +2222,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_gin_and_tonic",
       "name": "Gin And Tonic",
       "source": "IBA",
@@ -2172,6 +2248,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_rum_and_coke",
       "name": "Rum And Coke",
       "source": "IBA",
@@ -2196,6 +2273,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_vodka_cranberry",
       "name": "Vodka Cranberry",
       "source": "IBA",
@@ -2220,6 +2298,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_dark_and_stormy",
       "name": "Dark And Stormy",
       "source": "IBA",
@@ -2245,6 +2324,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_espresso_martini",
       "name": "Espresso Martini",
       "source": "IBA",
@@ -2278,6 +2358,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_lemon_drop",
       "name": "Lemon Drop",
       "source": "IBA",
@@ -2311,6 +2392,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_pink_lady",
       "name": "Pink Lady",
       "source": "IBA",
@@ -2343,6 +2425,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_zombie",
       "name": "Zombie",
       "source": "IBA",
@@ -2388,6 +2471,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_corba",
       "name": "Corba",
       "source": "IBA",
@@ -2421,6 +2505,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_swedish_girl",
       "name": "Swedish Girl",
       "source": "IBA",
@@ -2453,6 +2538,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_caribbean_sunset",
       "name": "Caribbean Sunset",
       "source": "IBA",
@@ -2486,6 +2572,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_hawaiian_punch",
       "name": "Hawaiian Punch",
       "source": "IBA",
@@ -2528,6 +2615,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_virgin_mojito",
       "name": "Virgin Mojito",
       "source": "IBA",
@@ -2556,6 +2644,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_california_lemonade",
       "name": "California Lemonade",
       "source": "IBA",
@@ -2589,6 +2678,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_tropical_heat",
       "name": "Tropical Heat",
       "source": "IBA",
@@ -2627,6 +2717,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_midnight_sun",
       "name": "Midnight Sun",
       "source": "IBA",
@@ -2656,6 +2747,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_golden_sunset",
       "name": "Golden Sunset",
       "source": "IBA",
@@ -2685,6 +2777,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_citrus_burst",
       "name": "Citrus Burst",
       "source": "IBA",
@@ -2723,6 +2816,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_berry_bliss",
       "name": "Berry Bliss",
       "source": "IBA",
@@ -2756,6 +2850,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_ginger_fizz",
       "name": "Ginger Fizz",
       "source": "IBA",
@@ -2789,6 +2884,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_coconut_breeze",
       "name": "Coconut Breeze",
       "source": "IBA",
@@ -2818,6 +2914,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_chocolate_martini",
       "name": "Chocolate Martini",
       "source": "IBA",
@@ -2847,6 +2944,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_peach_bellini",
       "name": "Peach Bellini",
       "source": "IBA",
@@ -2872,6 +2970,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_autumn_spice",
       "name": "Autumn Spice",
       "source": "IBA",
@@ -2901,6 +3000,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_mint_julep",
       "name": "Mint Julep",
       "source": "IBA",
@@ -2930,6 +3030,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_ramos_gin_fizz",
       "name": "Ramos Gin Fizz",
       "source": "IBA",
@@ -2967,6 +3068,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_sazerac",
       "name": "Sazerac",
       "source": "IBA",
@@ -3000,6 +3102,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_vieux_carre",
       "name": "Vieux Carre",
       "source": "IBA",
@@ -3037,6 +3140,7 @@
       ]
     },
     {
+      "schema_version": "1.0.0",
       "id": "recipe_plane_crash",
       "name": "Plane Crash",
       "source": "IBA",
@@ -3063,6 +3167,6554 @@
         "Classic",
         "Highball",
         "Whiskey"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_a1",
+      "name": "A1",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.75
+        },
+        {
+          "inventory_id": "inv_grand_marnier",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.25
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 0.125
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_ace",
+      "name": "Ace",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_heavy_cream",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_milk",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Martini Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_acid",
+      "name": "ACID",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_wild_turkey",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_att",
+      "name": "AT&T",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_absolut_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_tonic_water",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_adam",
+      "name": "Adam",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_a_j",
+      "name": "A. J.",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_applejack",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_affair",
+      "name": "Affair",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_strawberry_schnapps",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_cranberry_juice",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_apello",
+      "name": "Apello",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_apple_juice",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_almeria",
+      "name": "Almeria",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_abilene",
+      "name": "Abilene",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_peach_nectar",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_addison",
+      "name": "Addison",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_vermouth",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Martini Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_applecar",
+      "name": "Applecar",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_applejack",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_affinity",
+      "name": "Affinity",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_acapulco",
+      "name": "Acapulco",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_avalanche",
+      "name": "Avalanche",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_crown_royal",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_allegheny",
+      "name": "Allegheny",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_bourbon",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_algonquin",
+      "name": "Algonquin",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_artillery",
+      "name": "Artillery",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_addington",
+      "name": "Addington",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_b53",
+      "name": "B-53",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_sambuca",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_grand_marnier",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bijou",
+      "name": "Bijou",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_green_chartreuse",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_boxcar",
+      "name": "Boxcar",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_big_red",
+      "name": "Big Red",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_baileys",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_goldschlager",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bramble",
+      "name": "Bramble",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_creme_de_mure",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_balmoral",
+      "name": "Balmoral",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bluebird",
+      "name": "Bluebird",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_blue_curacao",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_brooklyn",
+      "name": "Brooklyn",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rye",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_maraschino",
+          "amount_shots": 0.25
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bora_bora",
+      "name": "Bora Bora",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 3.3333
+        },
+        {
+          "inventory_id": "inv_passion_fruit_juice",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_boomerang",
+      "name": "Boomerang",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_barracuda",
+      "name": "Barracuda",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_galliano",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Margarita Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_brigadier",
+      "name": "Brigadier",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_hot_chocolate",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_green_chartreuse",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_cherry_heering",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coupe Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_broadside",
+      "name": "Broadside",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_151_proof_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_buccaneer",
+      "name": "Buccaneer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_bacardi_limon",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Beer Pilsner",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_blackthorn",
+      "name": "Blackthorn",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sloe_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bob_marley",
+      "name": "Bob Marley",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_midori_melon_liqueur",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_j\u00e4germeister",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_goldschlager",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bible_belt",
+      "name": "Bible Belt",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_southern_comfort",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sour_mix",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_bumble_bee",
+      "name": "Bumble Bee",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_sambuca",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_baby_eskimo",
+      "name": "Baby Eskimo",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_milk",
+          "amount_shots": 8.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_boston_sour",
+      "name": "Boston Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_cafe_savoy",
+      "name": "Cafe Savoy",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_milk",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_cream_soda",
+      "name": "Cream Soda",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_spiced_rum",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_cherry_rum",
+      "name": "Cherry Rum",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.25
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_corn_n_oil",
+      "name": "Corn n Oil",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_falernum",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_a\u00f1ejo_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_blackstrap_rum",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_casa_blanca",
+      "name": "Casa Blanca",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_city_slicker",
+      "name": "City Slicker",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_campari_beer",
+      "name": "Campari Beer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lager",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_campari",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Beer Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_chicago_fizz",
+      "name": "Chicago Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_port",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_casino_royale",
+      "name": "Casino Royale",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_corpse_reviver",
+      "name": "Corpse Reviver",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_lillet_blanc",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_chocolate_milk",
+      "name": "Chocolate Milk",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_chocolate_liqueur",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_milk",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_clove_cocktail",
+      "name": "Clove Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sloe_gin",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_derby",
+      "name": "Derby",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_downshift",
+      "name": "Downshift",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Hurricane Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_dragonfly",
+      "name": "Dragonfly",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_ginger_ale",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_dry_rob_roy",
+      "name": "Dry Rob Roy",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 2.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_dark_caipirinha",
+      "name": "Dark Caipirinha",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_cachaca",
+          "amount_shots": 2.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_duchamps_punch",
+      "name": "Duchamp's Punch",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_pisco",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.8333
+        },
+        {
+          "inventory_id": "inv_pineapple_syrup",
+          "amount_shots": 0.8333
+        },
+        {
+          "inventory_id": "inv_st._germain",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_damned_if_you_do",
+      "name": "Damned if you do",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_whiskey",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_hot_damn",
+          "amount_shots": 0.25
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_dubonnet_cocktail",
+      "name": "Dubonnet Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dubonnet_rouge",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_drinking_chocolate",
+      "name": "Drinking Chocolate",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_heavy_cream",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_death_in_the_afternoon",
+      "name": "Death in the Afternoon",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_absinthe",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Margarita Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_egg_cream",
+      "name": "Egg Cream",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_soda_water",
+          "amount_shots": 6.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_english_highball",
+      "name": "English Highball",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_espresso_rumtini",
+      "name": "Espresso Rumtini",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_vanilla_syrup",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_espresso",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_coffee",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_english_rose_cocktail",
+      "name": "English Rose Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_apricot_brandy",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_elderflower_caipirinha",
+      "name": "Elderflower Caipirinha",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_cachaca",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_elderflower_cordial",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_empelln_cocinas_fatwashed_mezcal",
+      "name": "Empell\u00f3n Cocina's Fat-Washed Mezcal",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_mezcal",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_chocolate_liqueur",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_coffee_liqueur",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Beer Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_fros",
+      "name": "Fros\u00e9",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rose",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_strawberries",
+          "amount_shots": 8.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_foxy_lady",
+      "name": "Foxy Lady",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_creme_de_cacao",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_light_cream",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_french_75",
+      "name": "French 75",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_figgy_thyme",
+      "name": "Figgy Thyme",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_frisco_sour",
+      "name": "Frisco Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_benedictine",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_freddy_kruger",
+      "name": "Freddy Kruger",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_j\u00e4germeister",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sambuca",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_funk_and_soul",
+      "name": "Funk and Soul",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_apricot_nectar",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pomegranate_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_french_martini",
+      "name": "French Martini",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_raspberry_liqueur",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_french_negroni",
+      "name": "French Negroni",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lillet",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Martini Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_fahrenheit_5000",
+      "name": "Fahrenheit 5000",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_firewater",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_absolut_peppar",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_flying_dutchman",
+      "name": "Flying Dutchman",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_flying_scotchman",
+      "name": "Flying Scotchman",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_french_connection",
+      "name": "French Connection",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_cognac",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_flaming_dr_pepper",
+      "name": "Flaming Dr. Pepper",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_dr._pepper",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_beer",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_flaming_lamborghini",
+      "name": "Flaming Lamborghini",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sambuca",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_blue_curacao",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_frozen_mint_daiquiri",
+      "name": "Frozen Mint Daiquiri",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_frozen_pineapple_daiquiri",
+      "name": "Frozen Pineapple Daiquiri",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gg",
+      "name": "GG",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_galliano",
+          "amount_shots": 2.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gimlet",
+      "name": "Gimlet",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.5
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Martini Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_godchild",
+      "name": "Godchild",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_heavy_cream",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Champagne Flute",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_sour",
+      "name": "Gin Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gluehwein",
+      "name": "Gluehwein",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_water",
+          "amount_shots": 4.1667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Irish Coffee Cup",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_tonic",
+      "name": "Gin Tonic",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_tonic_water",
+          "amount_shots": 3.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_toddy",
+      "name": "Gin Toddy",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_smash",
+      "name": "Gin Smash",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_carbonated_water",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_daisy",
+      "name": "Gin Daisy",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_lemon",
+      "name": "Gin Lemon",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 2.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_sling",
+      "name": "Gin Sling",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_greyhound",
+      "name": "Greyhound",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_rickey",
+      "name": "Gin Rickey",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_squirt",
+      "name": "Gin Squirt",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_grand_blue",
+      "name": "Grand Blue",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_malibu_rum",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_peach_schnapps",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_blue_curacao",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sweet_and_sour",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_cooler",
+      "name": "Gin Cooler",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_swizzle",
+      "name": "Gin Swizzle",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_club_soda",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_grass_skirt",
+      "name": "Grass Skirt",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_grim_reaper",
+      "name": "Grim Reaper",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_gin_and_soda",
+      "name": "Gin and Soda",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_soda_water",
+          "amount_shots": 5.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_hd",
+      "name": "H.D.",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_whisky",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 2.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Beer Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_honey_bee",
+      "name": "Honey Bee",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_white_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_honey",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Margarita Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_hot_toddy",
+      "name": "Hot Toddy",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_whiskey",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_honey",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Irish Coffee Cup",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_herbal_flame",
+      "name": "Herbal flame",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_hot_damn",
+          "amount_shots": 5.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Mason Jar",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_happy_skipper",
+      "name": "Happy Skipper",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_spiced_rum",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_hunters_moon",
+      "name": "Hunter's Moon",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vermouth",
+          "amount_shots": 0.8333
+        },
+        {
+          "inventory_id": "inv_maraschino_cherry",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_lemonade",
+          "amount_shots": 3.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Balloon Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_halloween_punch",
+      "name": "Halloween Punch",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_cherry_juice",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 6.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Punch Bowl",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_havana_cocktail",
+      "name": "Havana Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_homemade_kahlua",
+      "name": "Homemade Kahlua",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vanilla_extract",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_hot_creamy_bush",
+      "name": "Hot Creamy Bush",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_irish_whiskey",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Irish Coffee Cup",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_highland_fling_cocktail",
+      "name": "Highland Fling Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_ipamena",
+      "name": "Ipamena",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_passion_fruit_juice",
+          "amount_shots": 1.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Wine Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_ice_pick",
+      "name": "Ice Pick",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_iced_tea",
+          "amount_shots": 6.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_irish_spring",
+      "name": "Irish Spring",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_irish_whiskey",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_peach_brandy",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_and_sour",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_imperial_fizz",
+      "name": "Imperial Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_irish_russian",
+      "name": "Irish Russian",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_imperial_cocktail",
+      "name": "Imperial Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_aperol",
+          "amount_shots": 1.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_irish_curdling_cow",
+      "name": "Irish Curdling Cow",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_bourbon",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jam_donut",
+      "name": "Jam Donut",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_chambord_raspberry_liqueur",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jitterbug",
+      "name": "Jitterbug",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jackhammer",
+      "name": "Jackhammer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_jack_daniels",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jelly_bean",
+      "name": "Jelly Bean",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blackberry_brandy",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_anis",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cordial Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jamaica_kiss",
+      "name": "Jamaica Kiss",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_coffee_liqueur",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Hurricane Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_japanese_fizz",
+      "name": "Japanese Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jewel_of_the_nile",
+      "name": "Jewel Of The Nile",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_green_chartreuse",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_yellow_chartreuse",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jack_rose_cocktail",
+      "name": "Jack Rose Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_apple_brandy",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_jacks_vanilla_coke",
+      "name": "Jack's Vanilla Coke",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tennessee_whiskey",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_kurant_tea",
+      "name": "Kurant Tea",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_absolut_kurant",
+          "amount_shots": 1.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Champagne Flute",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_kioki_coffee",
+      "name": "Kioki Coffee",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_kiwi_martini",
+      "name": "Kiwi Martini",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_kiss_me_quick",
+      "name": "Kiss me Quick",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_cranberry_vodka",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_apfelkorn",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_schweppes_russchian",
+          "amount_shots": 2.3333
+        },
+        {
+          "inventory_id": "inv_apple_juice",
+          "amount_shots": 2.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_koolaid_shot",
+      "name": "Kool-Aid Shot",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sloe_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_kentucky_b_and_b",
+      "name": "Kentucky B And B",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_bourbon",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_benedictine",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Brandy Snifter",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_kentucky_colonel",
+      "name": "Kentucky Colonel",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_bourbon",
+          "amount_shots": 3.0
+        },
+        {
+          "inventory_id": "inv_benedictine",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_koolaid_slammer",
+      "name": "Kool-Aid Slammer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lunch_box",
+      "name": "Lunch Box",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_beer",
+          "amount_shots": 18.75
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Pint Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lemon_shot",
+      "name": "Lemon Shot",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_galliano",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_absolut_citron",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_long_vodka",
+      "name": "Long vodka",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_loch_lomond",
+      "name": "Loch Lomond",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_drambuie",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_london_town",
+      "name": "London Town",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_maraschino",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_limona_corona",
+      "name": "Limona Corona",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_corona",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_bacardi_limon",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Beer Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lord_and_lady",
+      "name": "Lord And Lady",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_tia_maria",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lady_love_fizz",
+      "name": "Lady Love Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_long_island_tea",
+      "name": "Long Island Tea",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lone_tree_cocktail",
+      "name": "Lone Tree Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lazy_coconut_paloma",
+      "name": "Lazy Coconut Paloma",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_coconut_liqueur",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 2.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_lemon_elderflower_spritzer",
+      "name": "Lemon Elderflower Spritzer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_michelada",
+      "name": "Michelada",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_beer",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_tomato_juice",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Pint Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mauresque",
+      "name": "Mauresque",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_ricard",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_orgeat_syrup",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mudslinger",
+      "name": "Mudslinger",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_southern_comfort",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_pepsi_cola",
+          "amount_shots": 25.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Punch Bowl",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_martinez_2",
+      "name": "Martinez 2",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_moscow_mule",
+      "name": "Moscow Mule",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_ginger_ale",
+          "amount_shots": 8.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Copper Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mulled_wine",
+      "name": "Mulled Wine",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_red_wine",
+          "amount_shots": 25.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_munich_mule",
+      "name": "Munich Mule",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_ginger_beer",
+          "amount_shots": 3.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mochaberry",
+      "name": "Mocha-Berry",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_coffee",
+          "amount_shots": 6.0
+        },
+        {
+          "inventory_id": "inv_chambord_raspberry_liqueur",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Irish Coffee Cup",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mango_mojito",
+      "name": "Mango Mojito",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_white_rum",
+          "amount_shots": 6.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Jar",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mojito_extra",
+      "name": "Mojito Extra",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_midnight_mint",
+      "name": "Midnight Mint",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_white_creme_de_menthe",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_mary_pickford",
+      "name": "Mary Pickford",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_monkey_wrench",
+      "name": "Monkey Wrench",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_new_york_sour",
+      "name": "New York Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_national_aquarium",
+      "name": "National Aquarium",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_blue_curacao",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sour_mix",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_new_york_lemonade",
+      "name": "New York Lemonade",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_absolut_citron",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_grand_marnier",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_club_soda",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_nuked_hot_chocolate",
+      "name": "Nuked Hot Chocolate",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_milk",
+          "amount_shots": 12.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_old_pal",
+      "name": "Old Pal",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rye",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_campari",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Nick And Nora Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_old_cuban",
+      "name": "Old Cuban",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_white_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_prosecco",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_orangeade",
+      "name": "Orangeade",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 5.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_orange_whip",
+      "name": "Orange Whip",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_orange_crush",
+      "name": "Orange Crush",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_orange_oasis",
+      "name": "Orange Oasis",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_cherry_brandy",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_oreo_mudslide",
+      "name": "Oreo Mudslide",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_orange_pushup",
+      "name": "Orange Push-up",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_spiced_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Hurricane Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_orange_rosemary_collins",
+      "name": "Orange Rosemary Collins",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_rosemary_syrup",
+          "amount_shots": 0.8333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_owens_grandmothers_revenge",
+      "name": "Owen's Grandmother's Revenge",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_whiskey",
+          "amount_shots": 12.0
+        },
+        {
+          "inventory_id": "inv_beer",
+          "amount_shots": 12.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_paloma",
+      "name": "Paloma",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_grape_soda",
+          "amount_shots": 3.0
+        },
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pink_gin",
+      "name": "Pink Gin",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "White Wine Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pegu_club",
+      "name": "Pegu Club",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_orange_curacao",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pink_moon",
+      "name": "Pink Moon",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_coconut_liqueur",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_elderflower_cordial",
+          "amount_shots": 0.8333
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_penicillin",
+      "name": "Penicillin",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_scotch",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_islay_single_malt_scotch",
+          "amount_shots": 0.25
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pisco_sour",
+      "name": "Pisco Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_pisco",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pink_penocha",
+      "name": "Pink Penocha",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_everclear",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 58.3333
+        },
+        {
+          "inventory_id": "inv_peach_schnapps",
+          "amount_shots": 58.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Punch Bowl",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pure_passion",
+      "name": "Pure Passion",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_passoa",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_passion_fruit_syrup",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_popped_cherry",
+      "name": "Popped cherry",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_cherry_liqueur",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_cranberry_juice",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_poppy_cocktail",
+      "name": "Poppy Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_port_wine_flip",
+      "name": "Port Wine Flip",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_port",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pineapple_paloma",
+      "name": "Pineapple Paloma",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_fresh_lime_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 8.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_pornstar_martini",
+      "name": "Pornstar Martini",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_passoa",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_passion_fruit_juice",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_lime",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_prosecco",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_planters_punch_178368",
+      "name": "Planter\u2019s Punch",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 1.1667
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 0.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_port_and_starboard",
+      "name": "Port And Starboard",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_green_creme_de_menthe",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Pousse Cafe Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_port_wine_cocktail",
+      "name": "Port Wine Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_port",
+          "amount_shots": 2.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_passion_fruit_martini",
+      "name": "Passion Fruit Martini",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_quentin",
+      "name": "Quentin",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_light_cream",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_queen_bee",
+      "name": "Queen Bee",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_coffee_brandy",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lime_vodka",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_quicksand",
+      "name": "Quick-sand",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_black_sambuca",
+          "amount_shots": 0.8333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_queen_charlotte",
+      "name": "Queen Charlotte",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_red_wine",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_queen_elizabeth",
+      "name": "Queen Elizabeth",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_quakers_cocktail",
+      "name": "Quaker's Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_radler",
+      "name": "Radler",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_beer",
+          "amount_shots": 12.0
+        },
+        {
+          "inventory_id": "inv_7_up",
+          "amount_shots": 12.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_sour",
+      "name": "Rum Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_royal_fizz",
+      "name": "Royal Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_and_sour",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_cooler",
+      "name": "Rum Cooler",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lemon_lime_soda",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_runner",
+      "name": "Rum Runner",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_malibu_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_blackberry_brandy",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_red_snapper",
+      "name": "Red Snapper",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_crown_royal",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_cranberry_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_royal_flush",
+      "name": "Royal Flush",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_crown_royal",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_peach_schnapps",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_chambord_raspberry_liqueur",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_cranberry_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_cobbler",
+      "name": "Rum Cobbler",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_club_soda",
+          "amount_shots": 3.0
+        },
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_ruby_tuesday",
+      "name": "Ruby Tuesday",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_cranberry_juice",
+          "amount_shots": 5.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rosemary_blue",
+      "name": "Rosemary Blue",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_blue_curacao",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_tonic_water",
+          "amount_shots": 3.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Balloon Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_royal_gin_fizz",
+      "name": "Royal Gin Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_milk_punch",
+      "name": "Rum Milk Punch",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_raspberry_julep",
+      "name": "Raspberry Julep",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_bourbon",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_raspberry_syrup",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cordial Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_screwdriver",
+      "name": "Rum Screwdriver",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 5.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_raspberry_cooler",
+      "name": "Raspberry Cooler",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_raspberry_vodka",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_lime_soda",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_rum_oldfashioned",
+      "name": "Rum Old-fashioned",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_russian_spring_punch",
+      "name": "Russian Spring Punch",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.8333
+        },
+        {
+          "inventory_id": "inv_creme_de_cassis",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_sugar_syrup",
+          "amount_shots": 0.3333
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.8333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_radioactive_long_island_iced_tea",
+      "name": "Radioactive Long Island Iced Tea",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_chambord_raspberry_liqueur",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_midori_melon_liqueur",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_malibu_rum",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_smut",
+      "name": "Smut",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_peach_schnapps",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Beer Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_spritz",
+      "name": "Spritz",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_prosecco",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_campari",
+          "amount_shots": 1.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_scooter",
+      "name": "Scooter",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_light_cream",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_sangria",
+      "name": "Sangria",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_red_wine",
+          "amount_shots": 25.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Pitcher",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_snowday",
+      "name": "Snowday",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaro_montenegro",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_ruby_port",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_spice_75",
+      "name": "Spice 75",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sugar",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 6.6667
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 3.0
+        },
+        {
+          "inventory_id": "inv_champagne",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Wine Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_snowball",
+      "name": "Snowball",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_advocaat",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_shotgun",
+      "name": "Shot-gun",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_wild_turkey",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_salty_dog",
+      "name": "Salty Dog",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_grapefruit_juice",
+          "amount_shots": 5.0
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_stone_sour",
+      "name": "Stone Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_apricot_brandy",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_and_sour",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_scotch_sour",
+      "name": "Scotch Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_sweet_tooth",
+      "name": "Sweet Tooth",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_godiva_liqueur",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_sol_y_sombra",
+      "name": "Sol Y Sombra",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_anisette",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Brandy Snifter",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_space_odyssey",
+      "name": "Space Odyssey",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_malibu_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_pineapple_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_thriller",
+      "name": "Thriller",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_the_galah",
+      "name": "The Galah",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_campari",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_creme_de_banane",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tipperary",
+      "name": "Tipperary",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_irish_whiskey",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_green_chartreuse",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Nick And Nora Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_turkeyball",
+      "name": "Turkeyball",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_wild_turkey",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Shot Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_texas_sling",
+      "name": "Texas Sling",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_kahlua",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_baileys",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_cream",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Wine Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tom_collins",
+      "name": "Tom Collins",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_club_soda",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tennesee_mud",
+      "name": "Tennesee Mud",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_coffee",
+          "amount_shots": 8.0
+        },
+        {
+          "inventory_id": "inv_jack_daniels",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tequila_fizz",
+      "name": "Tequila Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_grenadine",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tequila_sour",
+      "name": "Tequila Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_the_last_word",
+      "name": "The Last Word",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_green_chartreuse",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_maraschino",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_turf_cocktail",
+      "name": "Turf Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_the_laverstoke",
+      "name": "The Laverstoke",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_elderflower_cordial",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_rosso_vermouth",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_tonic_water",
+          "amount_shots": 2.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Balloon Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tequila_slammer",
+      "name": "Tequila Slammer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Hurricane Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_the_philosopher",
+      "name": "The Philosopher",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_melon_liqueur",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Margarita Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_tuxedo_cocktail",
+      "name": "Tuxedo Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_the_jimmy_conway",
+      "name": "The Jimmy Conway",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_irish_whiskey",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_cranberry_juice",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vesper",
+      "name": "Vesper",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_lillet_blanc",
+          "amount_shots": 0.25
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_victor",
+      "name": "Victor",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_brandy",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vampiro",
+      "name": "Vampiro",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_tomato_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vesuvio",
+      "name": "Vesuvio",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_sweet_vermouth",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_veteran",
+      "name": "Veteran",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dark_rum",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_cherry_brandy",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_van_vleet",
+      "name": "Van Vleet",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_light_rum",
+          "amount_shots": 3.0
+        },
+        {
+          "inventory_id": "inv_maple_syrup",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vodka_fizz",
+      "name": "Vodka Fizz",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_half_and_half",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_limeade",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "White Wine Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vodka_lemon",
+      "name": "Vodka Lemon",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 2.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vodka_slime",
+      "name": "Vodka Slime",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vodka_tonic",
+      "name": "Vodka Tonic",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_tonic_water",
+          "amount_shots": 3.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vodka_russian",
+      "name": "Vodka Russian",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vermouth_cassis",
+      "name": "Vermouth Cassis",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_dry_vermouth",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_creme_de_cassis",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_victory_collins",
+      "name": "Victory Collins",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_vodka_and_tonic",
+      "name": "Vodka And Tonic",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_valencia_cocktail",
+      "name": "Valencia Cocktail",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_apricot_brandy",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_whisky_mac",
+      "name": "Whisky Mac",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_scotch",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_white_lady",
+      "name": "White Lady",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_wine_punch",
+      "name": "Wine Punch",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_red_wine",
+          "amount_shots": 25.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_wine_cooler",
+      "name": "Wine Cooler",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_lemon_lime_soda",
+          "amount_shots": 5.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_winter_rita",
+      "name": "Winter Rita",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_campari",
+          "amount_shots": 0.25
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_orange_juice",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_rosemary_syrup",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_whiskey_sour",
+      "name": "Whiskey Sour",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_blended_whiskey",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_winter_paloma",
+      "name": "Winter Paloma",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_white_wine_sangria",
+      "name": "White Wine Sangria",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_white_wine",
+          "amount_shots": 25.0
+        },
+        {
+          "inventory_id": "inv_apple_brandy",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Pitcher",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_whitecap_margarita",
+      "name": "Whitecap Margarita",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_tequila",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Margarita/Coupette Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_waikiki_beachcomber",
+      "name": "Waikiki Beachcomber",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.75
+        },
+        {
+          "inventory_id": "inv_gin",
+          "amount_shots": 0.75
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_yellow_bird",
+      "name": "Yellow Bird",
+      "source": "TheCocktailDB",
+      "iba_verified": true,
+      "ingredients": [
+        {
+          "inventory_id": "inv_white_rum",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_galliano",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_lime_juice",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zorro",
+      "name": "Zorro",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sambuca",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_baileys_irish_cream",
+          "amount_shots": 0.6667
+        },
+        {
+          "inventory_id": "inv_white_creme_de_menthe",
+          "amount_shots": 0.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Coffee Mug",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zinger",
+      "name": "Zinger",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_peachtree_schnapps",
+          "amount_shots": 4.0
+        },
+        {
+          "inventory_id": "inv_surge",
+          "amount_shots": 4.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Highball Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zambeer",
+      "name": "Zambeer",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_sambuca",
+          "amount_shots": 1.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zorbatini",
+      "name": "Zorbatini",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_ouzo",
+          "amount_shots": 0.25
+        }
+      ],
+      "garnish": [],
+      "glassware": "Cocktail Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zenmeister",
+      "name": "Zenmeister",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_j\u00e4germeister",
+          "amount_shots": 0.5
+        },
+        {
+          "inventory_id": "inv_root_beer",
+          "amount_shots": 0.5
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zipperhead",
+      "name": "Zipperhead",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_chambord_raspberry_liqueur",
+          "amount_shots": 1.0
+        },
+        {
+          "inventory_id": "inv_vodka",
+          "amount_shots": 1.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Whiskey Sour Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zima_blaster",
+      "name": "Zima Blaster",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_zima",
+          "amount_shots": 12.0
+        },
+        {
+          "inventory_id": "inv_chambord_raspberry_liqueur",
+          "amount_shots": 3.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Hurricane Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zizi_coincoin",
+      "name": "Zizi Coin-coin",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_triple_sec",
+          "amount_shots": 1.6667
+        },
+        {
+          "inventory_id": "inv_lemon_juice",
+          "amount_shots": 0.6667
+        }
+      ],
+      "garnish": [],
+      "glassware": "Margarita/Coupette Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zimadori_zinger",
+      "name": "Zimadori Zinger",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_midori_melon_liqueur",
+          "amount_shots": 1.5
+        },
+        {
+          "inventory_id": "inv_zima",
+          "amount_shots": 12.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_zippys_revenge",
+      "name": "Zippy's Revenge",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_amaretto",
+          "amount_shots": 2.0
+        },
+        {
+          "inventory_id": "inv_rum",
+          "amount_shots": 2.0
+        }
+      ],
+      "garnish": [],
+      "glassware": "Old-Fashioned Glass",
+      "tags": [
+        "TheCocktailDB"
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "recipe_ziemes_martini_apfelsaft",
+      "name": "Ziemes Martini Apfelsaft",
+      "source": "TheCocktailDB",
+      "iba_verified": false,
+      "ingredients": [
+        {
+          "inventory_id": "inv_vermouth",
+          "amount_shots": 1.3333
+        },
+        {
+          "inventory_id": "inv_apple_juice",
+          "amount_shots": 5.3333
+        }
+      ],
+      "garnish": [],
+      "glassware": "Collins Glass",
+      "tags": [
+        "TheCocktailDB"
       ]
     }
   ]
