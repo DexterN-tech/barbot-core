@@ -101,8 +101,8 @@ Every recipe step must route into exactly one station:
 | fluid_dispenser | Automated liquid dispensing |
 | ice_dispenser   | Ice handling                |
 | shaker_module   | Mechanical mixing           |
+| stir_module     | Mechanical stirring         |
 | user_prompt     | Manual user instructions    |
-
 ---
 
 # Canadian Metric Standard
