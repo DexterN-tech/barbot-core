@@ -429,10 +429,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         }
       ]
@@ -847,10 +848,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -972,10 +974,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         }
       ]
@@ -1013,10 +1016,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         }
       ]
@@ -1619,10 +1623,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -1744,10 +1749,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -1870,10 +1876,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -1928,10 +1935,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -2354,10 +2362,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -2403,10 +2412,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -2760,10 +2770,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         }
       ]
@@ -2860,10 +2871,11 @@
         },
         {
           "step": 6,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -2926,10 +2938,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -3043,10 +3056,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -3768,10 +3782,11 @@
         },
         {
           "step": 4,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -3826,10 +3841,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         }
       ]
@@ -4129,10 +4145,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -5855,10 +5872,11 @@
         },
         {
           "step": 5,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -6057,10 +6075,11 @@
         },
         {
           "step": 6,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {
@@ -6133,10 +6152,11 @@
         },
         {
           "step": 7,
-          "station": "user_prompt",
-          "action": "instruction",
+          "station": "stir_module",
+          "action": "stir",
           "payload": {
-            "message": "Stir gently."
+            "duration_ms": 8000,
+            "style": "gentle"
           }
         },
         {

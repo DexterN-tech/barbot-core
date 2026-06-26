@@ -39,6 +39,7 @@ class InstructionStep(BaseModel):
         "fluid_dispenser",
         "ice_dispenser",
         "shaker_module",
+        "stir_module",
         "user_prompt",
     ]
     action: str = Field(..., min_length=1)

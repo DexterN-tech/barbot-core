@@ -260,9 +260,9 @@ def generate_recipe_instructions(
     elif method == "stirred":
         steps.append({
             "step": s,
-            "station": "user_prompt",
-            "action": "instruction",
-            "payload": {"message": "Stir gently."},
+            "station": "stir_module",
+            "action": "stir",
+            "payload": {"duration_ms": 8000, "style": "gentle"},
         })
         s += 1
     elif method == "blended":
@@ -300,9 +300,9 @@ def generate_recipe_instructions(
         s += 1
         steps.append({
             "step": s,
-            "station": "user_prompt",
-            "action": "instruction",
-            "payload": {"message": "Stir gently."},
+            "station": "stir_module",
+            "action": "stir",
+            "payload": {"duration_ms": 8000, "style": "gentle"},
         })
         s += 1
 

@@ -33,7 +33,7 @@ def add_recipe(id_: str, name: str, ings: list[tuple[str, float]], garnish: list
         steps.append({"step": s, "station": "user_prompt", "action": "instruction", "payload": {"message": "Strain into glass."}})
         s += 1
     elif method == "stirred":
-        steps.append({"step": s, "station": "user_prompt", "action": "instruction", "payload": {"message": "Stir gently."}})
+        steps.append({"step": s, "station": "stir_module", "action": "stir", "payload": {"duration_ms": 8000, "style": "gentle"}})
         s += 1
     elif method == "blended":
         steps.append({"step": s, "station": "shaker_module", "action": "blend", "payload": {"duration_ms": 15000}})
@@ -43,7 +43,7 @@ def add_recipe(id_: str, name: str, ings: list[tuple[str, float]], garnish: list
     if top_with:
         steps.append({"step": s, "station": "fluid_dispenser", "action": "dispense", "payload": {"inventory_id": top_with, "amount_shots": 2.0}})
         s += 1
-        steps.append({"step": s, "station": "user_prompt", "action": "instruction", "payload": {"message": "Stir gently."}})
+        steps.append({"step": s, "station": "stir_module", "action": "stir", "payload": {"duration_ms": 8000, "style": "gentle"}})
         s += 1
     for g in garnish or []:
         steps.append({"step": s, "station": "user_prompt", "action": "instruction", "payload": {"message": f"Garnish with {g}."}})

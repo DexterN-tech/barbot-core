@@ -110,6 +110,7 @@ class TestInstructionStep:
             "fluid_dispenser",
             "ice_dispenser",
             "shaker_module",
+            "stir_module",
             "user_prompt",
         ]
         for station in valid_stations:
